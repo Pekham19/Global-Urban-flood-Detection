@@ -13,4 +13,6 @@ Using Random Forest Machine learning method for running it split into test and t
 If you don't see your result in Qgis after importing don't worry thats why i create this 'flood_quicklook_urban_only' in this png file you can see there that your tiff is exist or not.
 
 Thank You
-Pekham Ganguly
+
+Pekham Ganguly and Sandip Makur.
+Kolkata.India.
